@@ -220,9 +220,9 @@ input, select, textarea {
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
 		backface-visibility: hidden;
-		-moz-transform: cover;
-		-webkit-transform: cover;
-		-ms-transform: cover;
+		-moz-transform: translate3d(0,0,0);
+		-webkit-transform: translate3d(0,0,0);
+		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
