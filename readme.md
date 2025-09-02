@@ -1,5 +1,5 @@
 # Arffis
 
 ## ScreenVeil
-[Privacy Policy] (/privacy.html)
-[Support] (/support.html)
+[Privacy] (http://screenveil.arffis.com/privacy.html)
+[Support] (http://screenveil.arffis.com//support.html)
