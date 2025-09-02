@@ -29,7 +29,6 @@
       <h1 id="title">Contact support</h1>
       <p class="lead">Fill out the form. Your email client will open with a prepared letter.</p>
 
-      <!-- 🛠 Замените email ниже на адрес вашей поддержки -->
       <form id="support-form" autocomplete="on" novalidate>
         <div>
           <label for="name">Your name</label>
@@ -89,7 +88,6 @@
       }
 
       function validate(v){
-        // Простая валидация на клиенте
         if(!v.name || !v.email || !v.topic || !v.message) return false;
         if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.email)) return false;
         return true;
